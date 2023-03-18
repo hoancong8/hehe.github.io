@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff7d4c67-b037-478a-92e3-e504fd28918a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinghiem/hoank/hoan1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinghiem/hoatdong.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinghiem/web.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ff7d4c67-b037-478a-92e3-e504fd28918a" name="Changes" comment="hehe.github.io" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +46,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679148914384</updated>
-      <workItem from="1679148915855" duration="387000" />
+      <workItem from="1679148915855" duration="690000" />
     </task>
+    <task id="LOCAL-00001" summary="hehe.github.io">
+      <created>1679149604919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679149604919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hehe.github.io" />
+    <option name="LAST_COMMIT_MESSAGE" value="hehe.github.io" />
   </component>
 </project>
